@@ -1,0 +1,31 @@
+
+    /* Estilos existentes */
+
+    .boton {
+        width: 50px;
+        height: 50px;
+    }
+
+    /* Nueva hoja de estilos */
+
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .boton {
+        width: 80px;
+        height: 80px;
+        font-size: 24px;
+        margin: 5px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .boton {
+            width: 60px;
+            height: 60px;
+            font-size: 18px;
+        }
+    }
+
