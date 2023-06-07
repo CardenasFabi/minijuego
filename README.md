@@ -1,0 +1,2 @@
+# minijuego
+juego de triqui
